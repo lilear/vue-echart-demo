@@ -1,4 +1,4 @@
-# vue-demo
+# vue-echart-demo
 
 ## Project setup
 ```
