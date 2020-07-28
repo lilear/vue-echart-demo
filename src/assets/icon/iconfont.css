@@ -1,0 +1,21 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1590133134017'); /* IE9 */
+  src: url('iconfont.eot?t=1590133134017#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPYAAsAAAAAB+wAAAOMAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCCcAqDeIM1ATYCJAMICwYABCAFhG0HLxvaBlFULUpkPxNsWwXrRaCI+TdPpMUwtChhM7R/aBycjYev/X7n7tv3DZOkGumeRRMZT0WsRIZSKMmnewl//9c0JRQ6z5dlFaFCe5h/wLmUnp/TU2pCbsJtSC8v79KaRG1CUsq5/NxdasBO5v//c8x0UYL5FzynjMbR3gDHrQOKiGtq4MM7kAPzG8ZuImiIlwk0DOkprDuerlCXgVmBuIh3DKhntHJDYagJlYqNWTwo1dJlGnDPfz/+TYJBUhZAydbR2obZ1zRMKTQ5pAi86cwwtlFgAcjEXqV1QymKLihpeNGyMbCtwuBrunnK3ew/HkFUgPxWMCBzr4mH+Zean0CWex8BL4MGkw+fZAQFQi8JtmocfI4MNrY0IdqxY7oBHY+ejJe2gGmVa29sXBgdU1yBpgDl50eLiLZS6IMKd3mv4w5pFBBDNVW2V0uoYwahFa1CO8ggkd9Tcq+qJ+O1J/GyaQF0CoSb4L7VvpuEVHmPYGuvV+k3gNBwYgYpbxVax6sJMwEMmPIde/KCUFVwAimfJQgcNxifBnLezcrFXZ3yxKJ0HF3SpSyoz9oKNRURcQJ778mi0aFqQrxxBwZhfJ+uslaLsv8+kvokgKFKLLwxR9ZXusloL8jE8jhqF5PYHFQVIsSb3n25SaiuHSlL9pJp5oGw6F3+SIix6gUMeVlSbDzN7is5TZ0wZopQAVIxsbiMU5B+e0MT4ShhjtVJB2X+2vfgEPnt6f1ruEL8eWOBPx/X5yIXTdn7LFOsQjn/zF+exrWIDJwnyToCOxAjAXPb+bgX5Wfy3Qi93W2dfGAG0Hwvg2L+R/6NJ8kbNo3L/KfGlsHny8At5yt2ULtdW/DbeB1rsi8AivT8XMWWPKbcEjLbdGgC4Oz2N9TeBxJzqJk8GZKqQSjUTCAzdgFKLRahomYJGuZtt7fowUoi1zHnS4LQ6RuSds9Q6PSDzNhfKPX7h4rOIEPDQfAd2GIq4lntMsgQstH8oGclsUIGaYrCMzmP0OC0gBPvxLkXwLGmdj6xpZh4iiX505mIKFScRLiRrqMwTDDlxCdLBq5IOh1qxVS90sBKImhaw4hBEBsyfSCPJRFTtLFoFn7+jDgeQgZuqOqx3hGW8/pHYwOjDsitNO5UdSsvyT05JoRQkMISEbSRzCSE0QRKq8f5iEUMuAPCqamhUk91lQ6Wl0dvtwkagCoFHFEoz+Jj0wMA') format('woff2'),
+  url('iconfont.woff?t=1590133134017') format('woff'),
+  url('iconfont.ttf?t=1590133134017') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1590133134017#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-jinbi:before {
+  content: "\e6ad";
+}
+

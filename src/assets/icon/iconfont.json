@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8351883",
+      "name": "金币",
+      "font_class": "jinbi",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    }
+  ]
+}
